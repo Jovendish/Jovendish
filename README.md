@@ -1,2 +1,8 @@
 ### Keep Learning
-[![Jovendish's github stats](https://github-stats-extended.vercel.app/api?username=Jovendish&show_icons=true&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+
+<img src="metrics.svg" alt="metrics" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jovendish/Jovendish/output/snake-dark.svg" />
+  <img alt="snake" src="https://raw.githubusercontent.com/Jovendish/Jovendish/output/snake.svg" />
+</picture>
